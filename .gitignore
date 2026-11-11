@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.jar
+*.log
+spark-warehouse/
+metastore_db/
+checkpoints/
+spark-postgres-checkpoint/
+.idea/
+.vscode/
+Thumbs.db
+pg_log.txt
+spark_log.txt
